@@ -9,8 +9,7 @@ We are a growing community at University of California, Berkeley interested in:
 ### Contact:
 Interested in joining the OSCB or learning about future events? 
 
-Join the discussion on our [Google Group](https://groups.google.com/a/lists.berkeley.edu/d/forum/openscience)
-or email [Sam Teplitzky](steplitz@berkeley.edu)
+Email [Sam Teplitzky](steplitz@berkeley.edu)
 
 ### Reproducibilitea
 
@@ -18,6 +17,6 @@ The Reproducibilitea Journal Club is organized by Sam Teplitzky, Open Science Li
 
 The journal club is open to everyone across UC Berkeley, from any discipline or department.
 
-To join the Reproducibilitea Journal Club at Berkeley, fill out the following form: http://ucblib.link/journalclub
+To join the Reproducibilitea Journal Club at Berkeley, register at: https://berkeley.libcal.com/calendar/workshops/reproducibilitea
 
 
